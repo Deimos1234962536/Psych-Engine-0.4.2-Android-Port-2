@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-22,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-2,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-2,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "HAHA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/swampy",
+	"position": [
+		-290,
+		-50
+	],
+	"healthicon": "swamp",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		201,
+		87
+	],
+	"camera_position": [
+		800,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
