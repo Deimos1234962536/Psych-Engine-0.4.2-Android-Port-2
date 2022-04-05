@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "sewer",
+		"player1": "waerBF",
+		"player2": "swampy",
+		"player3": null,
+		"events": [
+			[
+				47142.8571428572,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				47261.9047619048,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				47380.9523809524,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				85238.0952380953,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85357.142857143,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				85476.1904761906,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				85714.2857142858,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "waerGF",
+		"bpm": 126,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Swampy Fever"
+	}
+}
