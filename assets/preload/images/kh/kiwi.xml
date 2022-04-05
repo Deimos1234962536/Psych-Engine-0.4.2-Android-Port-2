@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kiwi.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="861" height="836" frameX="-1" frameY="-2" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0001" x="0" y="0" width="861" height="836" frameX="-1" frameY="-2" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0002" x="881" y="0" width="863" height="837" frameX="0" frameY="0" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0003" x="881" y="0" width="863" height="837" frameX="0" frameY="0" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0004" x="1764" y="0" width="861" height="836" frameX="-1" frameY="-2" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0005" x="1764" y="0" width="861" height="836" frameX="-1" frameY="-2" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0006" x="2645" y="0" width="862" height="836" frameX="-1" frameY="-1" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0007" x="2645" y="0" width="862" height="836" frameX="-1" frameY="-1" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0008" x="0" y="857" width="858" height="833" frameX="-3" frameY="-4" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0009" x="0" y="857" width="858" height="833" frameX="-3" frameY="-4" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0010" x="0" y="857" width="858" height="833" frameX="-3" frameY="-4" frameWidth="863" frameHeight="838"/>
+	<SubTexture name="idle0011" x="0" y="857" width="858" height="833" frameX="-3" frameY="-4" frameWidth="863" frameHeight="838"/>
+</TextureAtlas>
