@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"swampy fever",
+			"swamp",
+			[
+				155,
+				201,
+				87
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"swampy",
+		"",
+		""
+	],
+	"weekBackground": "swampy",
+
+	"storyName": "",
+	"difficulties": "Normal",
+	"weekBefore": "tutorial",
+	"weekName": "Vs Swampy Demo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

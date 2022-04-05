@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"hand in hand",
+			"sora",
+			[
+				218,
+				83,
+				61
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"sora",
+		"",
+		""
+	],
+	"weekBackground": "sora",
+
+	"storyName": "",
+	"difficulties": "Normal",
+	"weekBefore": "tutorial",
+	"weekName": "Vs Sora Demo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

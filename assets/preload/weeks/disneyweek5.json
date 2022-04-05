@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"dark beauty castle",
+			"mickey",
+			[
+				218,
+				218,
+				218
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"mickey",
+		"",
+		""
+	],
+	"weekBackground": "mickey",
+
+	"storyName": "",
+	"difficulties": "Normal",
+	"weekBefore": "tutorial",
+	"weekName": "Vs Mickey Demo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

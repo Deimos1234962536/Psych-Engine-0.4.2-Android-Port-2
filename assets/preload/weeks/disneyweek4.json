@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"card jitsu",
+			"gary",
+			[
+				64,
+				116,
+				170
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"gary",
+		"",
+		""
+	],
+	"weekBackground": "gary",
+
+	"storyName": "",
+	"difficulties": "Normal",
+	"weekBefore": "tutorial",
+	"weekName": "Vs Gary Demo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

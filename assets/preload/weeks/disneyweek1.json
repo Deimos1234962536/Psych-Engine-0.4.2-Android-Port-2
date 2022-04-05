@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["cog invasion", "flippy", [94, 192, 236]]
+	],
+
+	"weekCharacters": [
+		"toontown",
+		"",
+		""
+	],
+	"weekBackground": "toontown",
+
+	"storyName": "",
+	"difficulties": "Normal",
+	"weekBefore": "tutorial",
+	"weekName": "Vs Flippy Demo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
